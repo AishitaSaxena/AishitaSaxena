@@ -11,8 +11,7 @@ I am currently pursuing btech (4th year) and have mastered many language like Ja
 * 🧠  I'm currently working on projects based on my skills.
 * 🤝  I'm open to collaborating on new startups and projects.
 
-<a href="https://www.github.com/AishitaSaxena" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aishita30?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
