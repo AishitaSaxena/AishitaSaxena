@@ -1,7 +1,7 @@
 Hi , My name is Aishita Saxena
 ===============================
 
-Full Stack Developer | Java Enthusiast | BTech graduate passionate about building scalable and efficient web solutions.
+Full Stack Developer | Java Enthusiast | BTech graduate | Passionate about building scalable and efficient web solutions.
 
 * I'm based in India
 * You can contact me at [aishita.saxena@gmail.com](mailto:aishita.saxena@gmail.com)
